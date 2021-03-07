@@ -83,4 +83,3 @@ If you have any questions about this project my email is danielanapolsky@gmail.c
 ---------------------------------------
 Thank you for checking my project out!
 
-Daniel Anapolsky (@po1ar)
