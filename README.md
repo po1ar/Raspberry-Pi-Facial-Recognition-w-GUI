@@ -81,5 +81,5 @@ First off, thank you to <a href="https://hackclub.com"> Hack Club </a> for makin
 If you have any questions about this project my email is danielanapolsky@gmail.com
 
 ---------------------------------------
-Thank you for checking my project out!
+Thanks for checking my project out!
 
