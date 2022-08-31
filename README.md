@@ -2,6 +2,8 @@
 
 # Raspberry-Pi-Facial-Recognition-w-GUI
 
+## This project was done as part of Hack Club's Summer Program. I am missing one file (which I don't have anymore), so this repo will be archived.
+
 Using Python, OpenCV and a Raspberry Pi, I created a program that lets you add photos of a person, and the Raspberry Pi will detect their face.
 
 ![alt text](https://media.giphy.com/media/eIyieq01EAYkQS7qsB/giphy.gif)
